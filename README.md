@@ -2,7 +2,7 @@
 A web application for users to save their contacts. (Full Stack Development with MERN)
 
 # Demo
-view the [demo].
+view the [demo](https://gentle-bastion-16273.herokuapp.com/).
 
 # Tech stacks
 React.JS, MongoDB, Express.js, Node.js, JWT, MERN stack, Java, JavaScript, HTML 5, CSS
