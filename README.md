@@ -7,6 +7,10 @@ view the [demo](https://gentle-bastion-16273.herokuapp.com/).
 # Tech stacks
 React.JS, MongoDB, Express.js, Node.js, JWT, MERN stack, Java, JavaScript, HTML 5, CSS
 
+# Highlight
+Designed and implemented a solution for maintaining complex user states using React Context.
+
+
 # RESTful APIs
 RESTful API for contacts that uses JWT authentication. <br>
 All contact endpoints are protected and each registered user has their own contacts.
