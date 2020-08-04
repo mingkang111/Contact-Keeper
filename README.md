@@ -8,8 +8,9 @@ view the [demo](https://gentle-bastion-16273.herokuapp.com/).
 React.JS, MongoDB, Express.js, Node.js, JWT, MERN stack, Java, JavaScript, HTML 5, CSS
 
 # Highlight
-Designed and implemented a solution for maintaining complex user states using React Context.
-
+Developed an interactive web page for users to add, update, create and view contacts with React.js ( with React Hooks and Context API for state management). <br>
+Used Node.js and Express.js for creating contacts and users API for the frontend to interact as well as the user authentication is based on JWT(JSON Web Token). <br>
+Built with MongoDB to store the users' data and contacts data.
 
 # RESTful APIs
 RESTful API for contacts that uses JWT authentication. <br>
